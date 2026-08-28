@@ -16,7 +16,7 @@ unter Releases** – einfach herunterladen und installieren.
 | [📡 CatchMe](https://github.com/Asparagus11/CatchMe) | Echtzeit-Ortung für Familien. Jedes Gerät synct seine Position über Nextcloud – kein fremder Server nötig. |
 | [🍽️ FoodPlanner](https://github.com/Asparagus11/FoodPlanner) | Wöchentliche Speiseplanung mit automatischer Einkaufsliste (Zutaten minus Vorrat). Nextcloud-Sync. |
 | [🌐 Kids Browser](https://github.com/Asparagus11/KidsBrowser) | Kindersicherer Browser mit elterlicher Allowlist/Blocklist. Filterconfig per Nextcloud synchronisierbar. |
-| [🖼️ CleverGallery](https://github.com/Asparagus11/CleverGallery) | Galerie-App mit KI-Tagging (Objekte + Personen), OCR und smarter Suche. Komplett offline. |
+| [🖼️ CleverGallery FOSS](https://github.com/Asparagus11/CleverGallery_FOSS) | Galerie-App mit KI-Tagging (Objekte + Personen), OCR und smarter Suche. Komplett offline. |
 | [🤖 LLMTalkBuddy](https://github.com/Asparagus11/LLMTalkBuddy) | Voice-Chat mit LLM: Spracheingabe (Whisper) → KI-Antwort → Vorlesen (Piper). Plus Bildgenerierung und Vision. |
 | [🗣️ LetsTalk](https://github.com/Asparagus11/LetsTalk) | Sprachlern-App für Alltagssätze (DE/EN/FR/SV) mit Wort-für-Wort-Übersetzung und TTS. |
 | [⌨️ NeoType](https://github.com/Asparagus11/NeoType) | Privacy-first Keyboard (HeliBoard-Fork) mit lokaler Push-to-Talk-Diktierfunktion (Whisper). |
